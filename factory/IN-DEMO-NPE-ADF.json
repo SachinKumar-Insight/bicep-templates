@@ -1,0 +1,9 @@
+{
+	"name": "IN-DEMO-NPE-ADF",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f8e4d2e-f5fb-495a-bc64-63ce36ff3a98",
+		"tenantId": "3fc65b59-ee64-49ec-8155-9aeb84df1ab9"
+	}
+}
